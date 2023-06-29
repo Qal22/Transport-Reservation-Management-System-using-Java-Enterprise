@@ -1,0 +1,21 @@
+{
+    "elements": {
+        "div": {
+            "attributes": {
+                "id": {},
+                "class": {}
+            }
+        },
+        "h2": {
+            "attributes": {
+                "class": {}
+            }
+        },
+        "h3": {
+            "attributes": {
+                "class": {}
+            }
+        }
+    },
+    "attributes": {}
+}
